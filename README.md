@@ -1,6 +1,15 @@
 # Hand Gesture Controlled Ping Pong
 The Hand Gesture Controlled Ping Pong Game is a fun and interactive project that allows you to control a ping pong game using hand gestures. In this project, a slider will be moved to and fro based on your hand gestures, and the movement of the slider will determine the movement of the ping pong ball within the game.
 
+## Reference Images
+
+1. ![ping3](https://github.com/yujit2003/ping-pong-game/assets/97657345/c3dcbc46-938e-467c-a333-b91a1c423623)
+2. ![ping4](https://github.com/yujit2003/ping-pong-game/assets/97657345/c41949a1-2b74-42f5-a755-867c526a6adb)
+3. ![ping2](https://github.com/yujit2003/ping-pong-game/assets/97657345/4bd0626c-2152-4a03-b728-792f946d3b1f)
+
+
+
+
 ## Prerequisites
 Before you begin, ensure you have the following prerequisites:
 
